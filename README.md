@@ -1,0 +1,2 @@
+# OOP-COURSEWORK-I-II
+This a java application that takes in the names of students, then takes in the marks of the students and the course units.  It enables to take in any number of students' names. Every student must be able to register marks in six (6) course units. And to put out average performance in the six (6) course units, or GPA.   The code does not allow you to enter marks less than zero (0) a hundred (100). Enter the marks of students 1, course unit 1, 2, 3, 4, 5, 6, and even 7 or more. Therefore, enter exit.
